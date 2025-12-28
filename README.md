@@ -1,4 +1,9 @@
+the program is hosted on https://assignment-yogeshdofficial1919-lwo15l11.leapcell.dev/banks
+
+api docs: https://assignment-yogeshdofficial1919-lwo15l11.leapcell.dev/docs
+
 to run the program locally
+
 
 1. first load the data in postgres
 
