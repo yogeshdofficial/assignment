@@ -12,6 +12,10 @@ psql -U postgres -d bank -f sql/seed.sql
 
 2. populate .env file
 
+```
+mv .env.example .env
+```
+
 3. then create a virtual environment and type these
 
 ```
